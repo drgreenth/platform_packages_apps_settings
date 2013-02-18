@@ -5979,4 +5979,15 @@
    <!-- Message for encryption dialog telling the user that Talkback and other accessibility services will be disabled. -->
    <string name="encrypt_talkback_dialog_message_password">When you enter your password to start this device, accessibility services like <xliff:g id="service" example="TalkBack">%1$s</xliff:g> won\'t yet be available.</string>
 
+   <!--PA Version-->
+   <string name="pa_version">ParanoidAndroid version</string>
+   <string name="pa_version_default">Unknown</string>
+            
+   <!-- Sound & notification > Other sounds: Title for the option enabling sound on volume slide adjust. [CHAR LIMIT=30] -->
+   <string name="volume_adjust_sound_title">Volume slider sound</string>
+                    
+   <!-- Advanced reboot options -->
+   <string name="advanced_reboot_title">Advanced reboot</string>
+   <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery or bootloader</string>
+                                
 </resources>
