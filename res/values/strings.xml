@@ -14,6 +14,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About phone screen, drgreen version -->
+    <string name="drg_version_title">Drgreen AOSP version</string>
+    <!-- Do NOT translate this -->
+    <string name="drg_version_default" translatable="false">v0.2</string>
+
     <!-- Strings for Dialog yes button -->
     <string name="yes">"Yes"</string>
 
@@ -5989,5 +5995,5 @@
    <!-- Advanced reboot options -->
    <string name="advanced_reboot_title">Advanced reboot</string>
    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery or bootloader</string>
-                                
+
 </resources>
